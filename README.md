@@ -95,5 +95,5 @@ You can contribute by:
 
 **Adarsh Shukla**
 
-- GitHub: [assiantadarsh]
+- GitHub: [https://github.com/assiantadarsh]
 - LinkedIn: [www.linkedin.com/in/adarsh-shukla-04a74339a]
